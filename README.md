@@ -185,7 +185,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## 👤 About the Author
 
-I'm a **QE Program & Strategic Leader & AI Practitioner** passionate about using data and visualization to drive delivery excellence at scale.
+I'm a **QE Program & Strategic Leader**. An AI Practitioner passionate about using data and visualization to drive business and delivery excellence at scale.
 
 Currently managing:
 - Multi-product portfolio delivery ($5M+ annual investment)
