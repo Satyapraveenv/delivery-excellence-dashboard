@@ -10,7 +10,7 @@
 
 ## Why I Built This
 
-Managing a $5M+ delivery portfolio across multiple product lines, I found myself drowning in weekly RAG status updates and monthly steering committee slides. The problem? **Most dashboards are reactive**—they tell you what went wrong *after* you missed your commitments.
+Managing a multi-product delivery portfolio, I found myself drowning in weekly RAG status updates and monthly steering committee slides. The problem? **Most dashboards are reactive**—they tell you what went wrong *after* you missed your commitments.
 
 I needed a **single source of truth** that:
 - Shows program health at a glance
@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 I'm a **QE Program & Strategic Leader**. An AI Practitioner passionate about using data and visualization to drive business and delivery excellence at scale.
 
 Currently managing:
-- Multi-product portfolio delivery ($5M+ annual investment)
+- Multi-product portfolio delivery
 - Cross-functional teams (Engineering, Product, QA)
 - Stakeholder communication and executive reporting
 
